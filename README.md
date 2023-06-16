@@ -18,3 +18,7 @@ to commit:  git commit -m "added html"
 to push to the github: 
 
 git push origin main
+
+to start git in a new folder:
+
+git init
