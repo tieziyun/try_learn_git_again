@@ -10,3 +10,9 @@ git add .
 
 to add only index.html locally:
 git add index.html to 
+
+to commit:  git commit -m "added html"
+
+to push to the github: 
+
+git push origin main
