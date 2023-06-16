@@ -4,6 +4,8 @@
   
 git status to check the which files dont exist yet in the github
 
+After changing something, SAVE FIRST!!!!!!!!!!!!!!!!!!!
+then, 
 to change everything locally:
 
 git add .
